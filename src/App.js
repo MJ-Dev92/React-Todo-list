@@ -2,6 +2,7 @@
 import "./App.css";
 import { useState } from "react";
 import Todo from "./components/Todo";
+import CustomButton from "./components/CustomButton";
 
 function App() {
   const addTodoHandler = () => {

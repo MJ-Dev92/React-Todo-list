@@ -1,4 +1,4 @@
-import CustomButton from "../../../homework/src/components/CustomButton";
+import CustomButton from "./CustomButton";
 
 const Todo = (props) => {
   return (
